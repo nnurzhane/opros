@@ -1,2 +1,0 @@
-# opros
-description
